@@ -1,0 +1,15 @@
+python -m twine upload --repository-url http://localhost:8080/ dist/*
+
+
+
+
+pip install --find-links <link-to-file> --trusted-host <hostname> <package-name>
+
+
+pip install --index-url http://localhost:8080/simple/ myguesser_game
+
+
+#############---->Using Git
+
+pip install git+https://github.com/itsbharatsaini/myguesser_game.git
+token : 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

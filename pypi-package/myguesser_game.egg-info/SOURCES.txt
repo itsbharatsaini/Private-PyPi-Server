@@ -1,0 +1,7 @@
+README.md
+license.txt
+setup.py
+myguesser_game.egg-info/PKG-INFO
+myguesser_game.egg-info/SOURCES.txt
+myguesser_game.egg-info/dependency_links.txt
+myguesser_game.egg-info/top_level.txt
